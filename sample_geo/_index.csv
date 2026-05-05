@@ -1,0 +1,24 @@
+file,label,asset_class,geometry_type,n_features_in_geo_sample,n_features_in_full,n_attributes
+SPU_DWW_Green_Stormwater_Infrastructure__6.csv,GSI Facility Footprints,Green Infrastructure,Polygon,437,,23
+SPU_DWW_Water_Quality_Structures__2.csv,Water Quality Polygons,Treatment,Polygon,200,,32
+SPU_DWW_Miscellaneous_Structures__1.csv,Misc Structures,Misc,Polygon,79,,24
+SPU_DWW_Green_Stormwater_Infrastructure__7.csv,Other GSI Footprints,Green Infrastructure,Polygon,38,,23
+SPU_DWW_Vaults__0.csv,Vaults,Detention,Polygon,36,,25
+DWW_Pump_Stationsss__0.csv,Pump Stations,Pump Stations,Polygon,6,,36
+SPU_DWW_CSO_Basins___0.csv,CSO Basins,Service Areas,MultiPolygon,2,,9
+SPU_DWW_Non_Mainlines_External_DSO_view__1.csv,SPU-Owned Non-Mainlines,Conveyance,LineString,5252,,37
+SPU_DWW_Mainlines_External__10.csv,Mainlines (Permitted Use),Conveyance,LineString,2935,,56
+SPU_DWW_Green_Stormwater_Infrastructure__4.csv,GSI Underdrains & Rain Gardens,Green Infrastructure,LineString,286,,38
+SPU_DWW_Green_Stormwater_Infrastructure__3.csv,GSI Swales,Green Infrastructure,LineString,230,,31
+SPU_DWW_Surface_Drainage_Curb_and_Gutter__1.csv,Curb & Gutter,Conveyance,LineString,136,,40
+SPU_DWW_Ditches_and_Culverts_DSO_EXT_View__1.csv,Ditches & Culverts,Conveyance,LineString,76,,41
+SPU_DWW_Green_Stormwater_Infrastructure__5.csv,GSI Permeable Pavement,Green Infrastructure,LineString,73,,28
+SPU_DWW_Mainlines_External__14.csv,Force Mainlines,Conveyance,LineString,3,,56
+SPU_DWW_Catch_Basins_Junction_Boxes_Sandboxes_DSO_External__2.csv,Catch Basins,Collection,Point,5340,,34
+SPU_DWW_Mainline_Points_External__1.csv,Mainline End Points,Conveyance,Point,2925,,38
+SPU_DWW_Surface_Drainage_Points__1.csv,Surface Drainage Points,Conveyance,Point,305,,19
+SPU_DWW_Water_Quality_Structures__1.csv,Water Quality Points,Treatment,Point,279,,37
+SPU_DWW_Storm_Outfalls__0.csv,Storm Outfalls,Outfalls,Point,103,,44
+SPU_DWW_Catch_Basins_Junction_Boxes_Sandboxes_DSO_External__4.csv,Sandboxes & Junction Boxes,Collection,Point,66,,34
+SPU_DWW_Appurtenance_Valves__0.csv,Appurtenance Valves,Appurtenances,Point,16,,47
+SPU_DWW_Green_Stormwater_Infrastructure__2.csv,GSI Weirs,Green Infrastructure,Point,1,,37

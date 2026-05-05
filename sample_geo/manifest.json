@@ -1,0 +1,13 @@
+{
+  "bbox": {
+    "min_lat": 47.575,
+    "max_lat": 47.61,
+    "min_lon": -122.35,
+    "max_lon": -122.315,
+    "name": "Pioneer Square / SODO / Elliott Bay waterfront"
+  },
+  "generated_at": "2026-05-05T19:28:47Z",
+  "duration_seconds": 2.1,
+  "layers": 0,
+  "total_features": 0
+}
