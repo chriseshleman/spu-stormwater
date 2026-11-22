@@ -4,6 +4,8 @@ A worked example of collecting a real utility's stormwater asset inventory from 
 
 The example utility is **Seattle Public Utilities (SPU)**. The method applies to any owner that publishes its assets through ArcGIS services.
 
+**Links:** [Live map](https://chriseshleman.github.io/spu-stormwater-map/) · [Map repo](https://github.com/chriseshleman/spu-stormwater-map) · [Project background and decisions](docs/HANDOFF.md)
+
 > **How to read this guide.**
 > Everyone: read sections 1 to 3 and the glossary (section 11).
 > Engineers: start at section 4, then use sections 5 to 10 as reference.
