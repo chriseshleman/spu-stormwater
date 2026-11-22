@@ -1,5 +1,7 @@
 # SPU Stormwater Asset Data: A Guide to What Was Built and How
 
+![Map preview](docs/map.png)
+
 A worked example of collecting a real utility's stormwater asset inventory from public sources, turning it into analysis-ready files, and publishing an interactive map.
 
 The example utility is **Seattle Public Utilities (SPU)**. The method applies to any owner that publishes its assets through ArcGIS services.
@@ -219,3 +221,7 @@ To repeat the method for another owner:
 ## 12. Source and attribution
 
 All data is owned and maintained by Seattle Public Utilities, Drainage and Wastewater. The canonical hub is [Seattle GeoData](https://data-seattlecitygis.opendata.arcgis.com). Check the City of Seattle's terms of use before redistributing the data, particularly the full `geojson/` files, which are intentionally not included in git. SPU's data is provided without guarantees of accuracy or completeness.
+
+## 13. License
+
+The code and documentation in this repo are released under the MIT license (see `LICENSE`). The license does not cover SPU's data, which remains SPU's.

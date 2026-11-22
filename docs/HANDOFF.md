@@ -60,7 +60,7 @@ How each piece was made is in the [README](../README.md).
 - The 2,817,689 total includes every lifecycle state. An earlier note cited about 2.75 million active features; that figure was not re-derived.
 - SPU's public layers have no levees, floodwalls, or tide gates.
 - The scripts assume the project folder sits at `~/Desktop/spu`.
-- No license has been attached yet. Treat the code and guide as reference material until one is added.
+- The code and documentation are released under the MIT license. SPU's data remains SPU's.
 
 ## Tools
 
